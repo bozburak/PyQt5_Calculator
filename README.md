@@ -1,5 +1,5 @@
 # PyQt5_Calculator
 
-I am junior Python developer. (Hahahha :) i wrote code while I was studying at university)
+I am junior Python developer. (Hahahha :) I wrote these codes at the University)
 
 My simple calculator.
